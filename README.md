@@ -1,3 +1,6 @@
-# lesson12
-
-## Please fork this repo and send pull requests
+### Puppet task_12
+Task created used vagrantfiles from the last tasks.
+##
+![](/sources/Screenshot.png)
+![](/sources/Screenshot-1.png)
+![](/sources/Screenshot-2.png)
