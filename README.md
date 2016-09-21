@@ -1,5 +1,5 @@
 ### Puppet task_12
-Task done used vagrantfiles from the last tasks.
+Task done used vagrantfiles from the last task11.
 ##
 ![](/sources/Screenshot.png)
 ![](/sources/Screenshot-1.png)
